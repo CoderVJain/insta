@@ -29,10 +29,6 @@ A complete **Instagram clone** built from scratch using the **MERN stack** — n
 - Get notified instantly when your post is liked/disliked
 - Receive message alerts in real time
 
-🧭 **Responsive UI**
-- Clean and intuitive design
-- Fully responsive for desktop & mobile
-
 ---
 
 ## 🧪 Tech Stack

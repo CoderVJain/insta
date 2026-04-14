@@ -33,22 +33,22 @@ A complete **Instagram clone** built from scratch using the **MERN stack** — n
 
 ## 📸 Screenshots
 
-### 🏠 Home Feed
+###  Home Feed
 ![Home Feed](./assets/feed.png)
 
-### 💬 Chat System
+###  Chat System
 ![Chat](./assets/message.png)
 
-### 👤 Edit Profile Page
+###  Edit Profile Page
 ![Edit Profile](./assets/editProfile.png)
 
-### 🔔 Comment Post 
+###  Comment Post 
 ![Comment Post](./assets/commentPost.png)
 
-### 🔔 Create Post 
+###  Create Post 
 ![Create Post](./assets/createPost.png)
 
-### 🔔 Like And Save Post 
+###  Like And Save Post 
 ![Like And Save Post](./assets/likeAndSavedPost.png)
 
 ---
